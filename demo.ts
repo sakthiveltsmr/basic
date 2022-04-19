@@ -52,3 +52,12 @@ if (hashName(myvariable)) {
 }
 
 (myvariable as string).toUpperCase();
+
+//multitype
+
+let multi: number | boolean;
+
+multi = 22;
+multi = true;
+
+console.log(multi);

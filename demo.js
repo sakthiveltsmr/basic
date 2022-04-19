@@ -34,3 +34,8 @@ if (hashName(myvariable)) {
     console.log(myvariable.name);
 }
 myvariable.toUpperCase();
+//multitype
+var multi;
+multi = 22;
+multi = true;
+console.log(multi);
