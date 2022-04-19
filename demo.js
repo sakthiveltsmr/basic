@@ -44,3 +44,4 @@ var anyType;
 anyType = 44;
 anyType = true;
 anyType = "sakthi";
+console.log(anyType);

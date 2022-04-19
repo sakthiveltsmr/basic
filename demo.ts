@@ -69,3 +69,4 @@ let anyType: any;
 anyType = 44;
 anyType = true;
 anyType = "sakthi";
+console.log(anyType);
