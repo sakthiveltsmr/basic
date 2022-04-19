@@ -39,3 +39,8 @@ var multi;
 multi = 22;
 multi = true;
 console.log(multi);
+// anyType
+var anyType;
+anyType = 44;
+anyType = true;
+anyType = "sakthi";

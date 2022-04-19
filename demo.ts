@@ -61,3 +61,11 @@ multi = 22;
 multi = true;
 
 console.log(multi);
+
+// anyType
+
+let anyType: any;
+
+anyType = 44;
+anyType = true;
+anyType = "sakthi";
