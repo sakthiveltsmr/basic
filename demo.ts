@@ -18,3 +18,7 @@ const employe: boolean = true;
 const sentence: string = `my name is ${name},and my age is ${age}`;
 
 console.log(sentence);
+
+let list1: number[] = [1, 2, 3];
+
+let list2: Array<number> = [1, 2, 3];

@@ -10,3 +10,5 @@ var age = 24;
 var employe = true;
 var sentence = "my name is ".concat(name, ",and my age is ").concat(age);
 console.log(sentence);
+var list1 = [1, 2, 3];
+var list2 = [1, 2, 3];
