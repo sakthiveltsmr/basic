@@ -22,3 +22,5 @@ console.log(sentence);
 let list1: number[] = [1, 2, 3];
 
 let list2: Array<number> = [1, 2, 3];
+//tuples
+let person1: [string, number] = ["sakthi", 24];
